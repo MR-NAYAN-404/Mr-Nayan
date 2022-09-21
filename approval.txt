@@ -9,3 +9,4 @@ nayan>1~0~4~8~7~u~0~_~a~4~8~7<mr nayan
 mr nayan>1~0~3~2~8~u~0~_~a~3~2~8<mr nayan
 =MrNayan_=15ADB78BDD744F54BB215EE3E429FBD2==UID=GREEN==
 =MrNayan_=15ADB78BDD744F54BB215EE3E429FBD2==UID=GREEN==
+mr nayan>1~0~0~6~5~u~0~_~a~6~5<mr nayan
