@@ -20,3 +20,4 @@ mr nayan>1~0~3~2~0~u~0~_~a~3~2~0<mr nayan
 mr nayan>1~0~2~8~6~u~0~_~a~2~8~6<mr nayan
 mr nayan>1~0~3~1~5~u~0~_~a~3~1~5<mr nayan
 mr nayan>1~0~3~0~0~u~0~_~a~3~0~0<mr nayan
+nayan>1~0~3~7~5~u~0~_~a~3~7~5<mr
